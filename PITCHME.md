@@ -22,3 +22,18 @@
 @[45-49](Not As Ugly @fa[fa-thumbs-o-up fa-lg])
 
 +++
+
+# C# 7
+## Out Variables
+
+- Same Scoping Rules
+- Implicit Declaration
+- Valid With Ternary 
+
++++?code=src/OutVariables.cs&lang=csharp
+@[1-11](TryParse: Legacy Pattern @fa[frown-o fa-lg])
+@[13-22](New Pattern @fa[meh-o fa-lg])
+@[24-29](Same Scoping Rules @fa[smile-o fa-lg])
+@[34-35](Valid With Ternary @fa[fa-thumbs-o-up fa-lg])
+
++++
