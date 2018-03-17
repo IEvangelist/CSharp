@@ -5,9 +5,9 @@
 
 +++?code=src/LocalFunctions.cs&lang=csharp
 @[1-11](Eager Validation: Early Exit, Iterator: Deferred Execution)
-@[13-21](Separate Methods)
+@[13-21](Solution: Separate Methods?)
 @[23-27](Logical Cohesion @fa[meh-o fa-lg])
-@[13-27](Whoelse Uses This @fa[frown-o fa-lg])
-@[29-43](Local Functions @fa[smile-o fa-lg])
+@[13-27](Where Else Is This Used? @fa[frown-o fa-lg])
+@[29-43](Local Functions! @fa[smile-o fa-lg])
 
 +++
