@@ -19,6 +19,6 @@
 @[23-27](Logical Cohesion @fa[meh-o fa-lg])
 @[13-27](Where Else Is This Used? @fa[frown-o fa-lg])
 @[29-43](Local Functions! @fa[smile-o fa-lg])
-@[45-49](Not As Ugly @fa[smile-o fa-lg])
+@[45-49](Not As Ugly @fa[fa-thumbs-o-up fa-lg])
 
 +++
