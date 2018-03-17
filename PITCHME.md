@@ -4,7 +4,7 @@
 [@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
 
 +++?code=src/LocalFunctions.cs&lang=csharp
-@[1-11](Deferred Execution | Eager Validation)
+@[1-11](Eager Validation: Early Exit, Iterator: Deferred Execution)
 @[13-21](Separate Methods)
 @[23-27](Logical Cohesion @fa[meh-o fa-lg])
 @[13-27](Whoelse Uses This @fa[frown-o fa-lg])
