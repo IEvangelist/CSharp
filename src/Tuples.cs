@@ -3,17 +3,17 @@ void LegacyTuple() {
     var a = letters.Item1;
     var b = letters.Item2;
 
-    // Not allowed
+    // Compile error!
     // letters.Item1 = "c";
 }
 
 void ValueTuple() {
-    var letters = ('a', 'b'); // ValueTuple
+    var letters = ("a", "b"); // ValueTuple
     var a = letters.Item1;
     var b = letters.Item2;
 
-    // OMG, WTF?!
-    letters.Item1 = 'c';
+    // Valid, not do NOT do!
+    letters.Item1 = "c";
 
     // Note: ToTuple extension method
     var systemTuple = letters.ToTuple();
@@ -27,11 +27,11 @@ void ValueTuple() {
     // Example to show IntelliSense
     var wordAndNum = (Word: "programming", Number: 7);
 
-    // Item1 and Item2 are actually hidden
+    // .Item1 and .Item2 are actually hidden
     var word = wordAndNum.Word; 
     var number = wordAndNum.Number;
 
-    // OMG, WTF?!
+    // Complete re-assign
     wordAndNum = ("is fun", 10);
 
     // Deconstruction
@@ -46,7 +46,7 @@ void ValueTuple() {
         // This would get executed...
     }
 
-    // More examples
+    // Liteal instantly deconstructed
     var (now, tenSeconds) =
         (DateTime.Now, TimeSpan.FromSeconds(10));
 }
