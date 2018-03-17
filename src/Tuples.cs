@@ -51,27 +51,6 @@ void ValueTuple() {
         (DateTime.Now, TimeSpan.FromSeconds(10));
 }
 
-static void NamedTuplesAssignment() {
-    var numbers = (One: 1, Two: DateTime.Now, Three: new { Pizza = "yummy" });
-    var one = numbers.One;
-    var two = numbers.Two;
-    var three = numbers.Three.Pizza; // Hmmm
-}
-
-static (int Max, int Min) Range(IEnumerable<int> numbers) {
-    int min = int.MaxValue;
-    int max = int.MinValue;
-    foreach (var n in numbers)
-    {
-        min = (n < min) ? n : min;
-        max = (n > max) ? n : max;
-    }
-    return (max, min);
-}
-
-private static (T Min, T Max) Range<T>(IEnumerable<T> enumerable)
-    => (enumerable.Min(), enumerable.Max());
-
 void InstantiatePerson() {
     var person = new Person(("David", "Pine"), 32);
     var firstName = person.Name.First;
