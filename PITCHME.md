@@ -3,6 +3,15 @@
 <br />
 [@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
 
++++
+
+# Local Functions
+
+- Recursive
+- `async` and `await`
+- Iterators
+- Generics
+
 +++?code=src/LocalFunctions.cs&lang=csharp
 @[1-11](Eager Validation: Early Exit, Iterator: Deferred Execution)
 @[13-21](Solution: Separate Methods?)
