@@ -21,7 +21,7 @@
 @[29-43](Local Functions! @fa[smile-o fa-lg])
 @[45-49](Not As Ugly @fa[fa-thumbs-o-up fa-lg])
 
-+++
+---
 
 # C# 7
 ## Out Variables
