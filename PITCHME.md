@@ -39,18 +39,22 @@
 +++
 
 # C# 7
-## Tuple
+## Tuples
 
-- Hashing
+- Hashing / Dictionary Key
 - API Better, `.Item1`, `.Item2`, ...
 - Value-Type
 - Literals / Deconstruction
 
 +++?code=src/Tuples.cs&lang=csharp
-@[1-11](TryParse: Legacy Pattern @fa[frown-o fa-lg])
-@[13-22](New Pattern @fa[meh-o fa-lg])
-@[24-32](Same Scoping Rules @fa[smile-o fa-lg])
-@[34-35](Valid With Ternary @fa[fa-thumbs-o-up fa-lg])
+@[1-8](Legacy Tuples, Class @fa[frown-o fa-lg])
+@[10-16](... @fa[meh-o fa-lg])
+@[18-21](... @fa[meh-o fa-lg])
+@[23-25](... @fa[meh-o fa-lg])
+@[27-32](... @fa[meh-o fa-lg])
+@[34-40](... @fa[meh-o fa-lg])
+@[38-47](... @fa[smile-o fa-lg])
+@[49-51](Same Scoping Rules @fa[fa-thumbs-o-up fa-lg])
 
 +++
 
