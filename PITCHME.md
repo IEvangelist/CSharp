@@ -5,7 +5,8 @@
 
 +++
 
-# Local Functions
+# C# 7
+## Local Functions
 
 - Recursive
 - `async` and `await`
