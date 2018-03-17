@@ -53,7 +53,7 @@
 @[23-25](... @fa[meh-o fa-lg])
 @[27-32](... @fa[meh-o fa-lg])
 @[34-40](... @fa[meh-o fa-lg])
-@[38-47](... @fa[smile-o fa-lg])
+@[35-47](... @fa[smile-o fa-lg])
 @[49-51](Same Scoping Rules @fa[fa-thumbs-o-up fa-lg])
 
 +++
