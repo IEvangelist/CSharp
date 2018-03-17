@@ -5,9 +5,10 @@
 
 +++?code=src/LocalFunctions.cs&lang=csharp
 
-@[1-11]
-@[13-21]
-@[23-27]
+@[1-11](Deferred execution | Late-bound validation)
+@[13-21](Separate)
+@[23-27](@fa[smile large])
+@[13-27]
 @[29-43]
 
 +++
