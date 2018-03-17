@@ -1,4 +1,4 @@
-internal static IEnumerable<char> AlphabetSubset(char start, char end) {
+static IEnumerable<char> AlphabetSubset(char start, char end) {
     if ((start < 'a') || (start > 'z')) {
         throw new ArgumentOutOfRangeException(
             nameof(start),
@@ -10,7 +10,7 @@ internal static IEnumerable<char> AlphabetSubset(char start, char end) {
     }
 }
 
-internal static IEnumerable<char> AlphabetSubset2(char start, char end) {
+static IEnumerable<char> AlphabetSubset2(char start, char end) {
     if ((start < 'a') || (start > 'z')) {
         throw new ArgumentOutOfRangeException(
             nameof(start),
@@ -20,13 +20,13 @@ internal static IEnumerable<char> AlphabetSubset2(char start, char end) {
     return AlphabetSubsetImpl(start, end);
 }
 
-private static IEnumerable<char> AlphabetSubsetImpl(char start, char end) {
+static IEnumerable<char> AlphabetSubsetImpl(char start, char end) {
     for (var @char = start; @char < end; ++ @char) {
         yield return @char;
     }
 }
 
-internal static IEnumerable<char> AlphabetSubset3(char start, char end) {
+static IEnumerable<char> AlphabetSubset3(char start, char end) {
     if ((start < 'a') || (start > 'z')) {
         throw new ArgumentOutOfRangeException(
             nameof(start), 
