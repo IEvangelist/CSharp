@@ -7,7 +7,7 @@
 
 @[1-11](Deferred execution | Late-bound validation)
 @[13-21](Separate)
-@[23-27](@fa[smile large])
+@[23-27](@fa[frown-o fa-lg])
 @[13-27]
 @[29-43]
 
