@@ -37,3 +37,29 @@
 @[34-35](Valid With Ternary @fa[fa-thumbs-o-up fa-lg])
 
 +++
+
+# C# 7
+## Tuple
+
+- Hashing
+- API Better, `.Item1`, `.Item2`, ...
+- Value-Type
+- Literals / Deconstruction
+
++++?code=src/Tuples.cs&lang=csharp
+@[1-11](TryParse: Legacy Pattern @fa[frown-o fa-lg])
+@[13-22](New Pattern @fa[meh-o fa-lg])
+@[24-32](Same Scoping Rules @fa[smile-o fa-lg])
+@[34-35](Valid With Ternary @fa[fa-thumbs-o-up fa-lg])
+
++++
+
+
+
+
+// Prior to C# 7, Tuples existed as an API - but had many limitations.
+// You are probably familiar with the .Item1, .Item2, .Item3, etc...
+
+// Benefits:
+//    Readability and "Immutable", relies on System.ValueTuple.dll
+
