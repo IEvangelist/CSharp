@@ -33,3 +33,11 @@ void ScopeExample() {
 
 internal int ExpressiveTryPattern(string number)
     => int.TryParse(number, out int value) ? value : -1;
+
+
+
+
+
+
+
+
