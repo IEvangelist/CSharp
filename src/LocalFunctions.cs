@@ -47,3 +47,12 @@ static IEnumerable<char> AlphabetSubset3(char start, char end) {
     int sumNumbers(int x, int y) => x + y;
     Func<int, int, int> addNumbers = (x, y) => x + y;
 }
+
+
+
+
+
+
+
+
+
