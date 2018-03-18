@@ -63,8 +63,7 @@ void InstantiatePerson() {
     var (_, age) = person;
     var (n, a) = person;
 
-    // Note: the use of the _ doesn't actually declare the variable
-    // It is not available, it is a way to ignore that ordinal.
+    // Note: The wildcard '_' is ignored.
 }
 
 class Person {
