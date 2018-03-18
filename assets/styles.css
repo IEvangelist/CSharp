@@ -3,7 +3,7 @@
 }
 
 p > span.code-presenting-annotation.fragment.current-only.visible.current-fragment {
-  text-transform: uppsercase !important;
+  text-transform: uppercase !important;
 }
 
 div.slides > section > section.present {
