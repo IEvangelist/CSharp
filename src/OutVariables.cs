@@ -18,7 +18,7 @@ int NewTryPattern(string number) {
     else {
         return -1; // "i" is available to us here.
     }
-    // The "i" variables leaks into this scope.
+    // The "i" variable leaks into this scope.
 }
 
 void ScopeExample() {
@@ -31,8 +31,8 @@ void ScopeExample() {
     // Note: the "ts" variable is NOT leaked in this scope!
 }
 
-internal int ExpressiveTryPattern(string number)
-    => int.TryParse(number, out int value) ? value : -1;
+int ExpressiveTryPattern(string number)
+    => int.TryParse(number, out var value) ? value : -1;
 
 
 
