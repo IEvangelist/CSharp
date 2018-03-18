@@ -52,20 +52,16 @@ void ValueTuple() {
 }
 
 void InstantiatePerson() {
-    var person = new Person(("David", "Pine"), 32);
-    var firstName = person.Name.First;
-    var lastName = person.Name.Last;
+    var person = new Person("David Pine", 32);
+    var name = person.Name;
     var age = person.Age;
 
     // Using explicitly defined "Deconstruct"
     // method on a non-tuple object
-    var (_, _, _) = person;
-    var (first, _, _) = person;
-    var (frst, lst, _) = person;
-    var (f, l, a) = person;
-
-    // Cherry pick
-    var (_, theLastName, _) = person;
+    var (_, _) = person;
+    var (name, _) = person;
+    var (_, age) = person;
+    var (n, a) = person;
 
     // Note: the use of the _ doesn't actually declare the variable
     // It is not available, it is a way to ignore that ordinal.
