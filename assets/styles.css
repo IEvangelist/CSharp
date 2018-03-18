@@ -8,6 +8,7 @@
   max-height: 60vh !important;
   opacity: 0.90;
   border-radius: 10px;
+  overflow: hidden !important;
 }
 
 .reveal .slides section .code-presenting-annotation {
