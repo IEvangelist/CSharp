@@ -8,11 +8,11 @@ void LegacyTuple() {
 }
 
 void ValueTuple() {
-    var letters = ("a", "b"); // ValueTuple
+    var letters = ("a", "b"); // Literal
     var a = letters.Item1;
     var b = letters.Item2;
 
-    // Valid, not do NOT do!
+    // Valid, do NOT do!
     letters.Item1 = "c";
 
     // Note: ToTuple extension method
