@@ -55,19 +55,9 @@
 @[34-40](... @fa[meh-o fa-lg])
 @[35-47](... @fa[smile-o fa-lg])
 @[49-51](Same Scoping Rules @fa[fa-thumbs-o-up fa-lg])
-
-@[70-78](Any Class @fa[fa-exclamation-circle fa-lg])
-@[80-85](Deconstruct @fa[fa-exclamation-circle fa-lg])
-@[54-68](It Just Works @fa[fa-exclamation-circle fa-lg])
+@[69-77](Any Class @fa[fa-exclamation-circle fa-lg])
+@[79-84](Deconstruct @fa[fa-exclamation-circle fa-lg])
+@[54-67](It Just Works @fa[fa-exclamation-circle fa-lg])
 
 +++
-
-
-
-
-// Prior to C# 7, Tuples existed as an API - but had many limitations.
-// You are probably familiar with the .Item1, .Item2, .Item3, etc...
-
-// Benefits:
-//    Readability and "Immutable", relies on System.ValueTuple.dll
 
