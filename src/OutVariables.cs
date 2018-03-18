@@ -3,7 +3,7 @@ int LegacyTryPattern(string number) {
     if (int.TryParse(number, out i)) {
         return i;
     }
-    else{ 
+    else { 
         return -1;
     }
 
