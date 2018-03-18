@@ -2,6 +2,10 @@
   width: 100%;
 }
 
+body > div.reveal.slide.center.has-vertical-slides.ready > div.slides > section > section.present {
+  top: 0px;
+}
+
 .reveal pre code {
   font-size: 1.2em;
   line-height: 1.2;
