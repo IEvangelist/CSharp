@@ -56,6 +56,10 @@
 @[35-47](... @fa[smile-o fa-lg])
 @[49-51](Same Scoping Rules @fa[fa-thumbs-o-up fa-lg])
 
+@[70-78](Any Class @fa[fa-exclamation-circle fa-lg])
+@[80-85](Deconstruct @fa[fa-exclamation-circle fa-lg])
+@[54-68](It Just Works @fa[fa-exclamation-circle fa-lg])
+
 +++
 
 
