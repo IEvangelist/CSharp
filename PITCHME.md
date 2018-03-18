@@ -19,7 +19,7 @@
 @[23-27](Logical Cohesion @fa[meh-o fa-lg])
 @[13-27](Where Else Is This Used? @fa[frown-o fa-lg])
 @[29-43](Local Functions! @fa[smile-o fa-lg])
-@[45-49](Not As Ugly @fa[fa-thumbs-o-up fa-lg])
+@[45-49](Not As Ugly @fa[thumbs-o-up fa-lg])
 
 +++
 
@@ -34,7 +34,7 @@
 @[1-11](TryParse: Legacy Pattern @fa[frown-o fa-lg])
 @[13-22](New Pattern @fa[meh-o fa-lg])
 @[24-32](Same Scoping Rules @fa[smile-o fa-lg])
-@[34-35](Valid With Ternary @fa[fa-thumbs-o-up fa-lg])
+@[34-35](Valid With Ternary @fa[thumbs-o-up fa-lg])
 
 +++
 
@@ -55,9 +55,9 @@
 @[34-40](... @fa[meh-o fa-lg])
 @[35-47](... @fa[smile-o fa-lg])
 @[49-51](Same Scoping Rules @fa[fa-thumbs-o-up fa-lg])
-@[69-77](Any Class @fa[fa-exclamation-circle fa-lg])
-@[79-84](Deconstruct @fa[fa-exclamation-circle fa-lg])
-@[54-67](It Just Works @fa[fa-exclamation-circle fa-lg])
+@[69-77](Any Class @fa[question-circle fa-lg])
+@[79-84](Deconstruct @fa[exclamation-circle fa-lg])
+@[54-67](It Just Works @fa[exclamation fa-lg])
 
 +++
 
