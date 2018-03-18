@@ -2,11 +2,11 @@
   width: 100%;
 }
 
-body > div.reveal.slide.center.has-vertical-slides.ready > div.slides > section > section.present > p > span:nth-child(1) {
+p > span.code-presenting-annotation.fragment.current-only.visible.current-fragment {
   text-transform: uppsercase !important;
 }
 
-body > div.reveal.slide.center.has-vertical-slides.ready > div.slides > section > section.present {
+div.slides > section > section.present {
   top: 0px !important;
 }
 
