@@ -48,12 +48,12 @@
 
 +++?code=src/Tuples.cs&lang=csharp
 @[1-8](Legacy Tuples, Class @fa[frown-o fa-lg])
-@[10-16](... @fa[meh-o fa-lg])
-@[18-21](... @fa[meh-o fa-lg])
-@[23-25](... @fa[meh-o fa-lg])
-@[27-32](... @fa[meh-o fa-lg])
-@[34-40](... @fa[meh-o fa-lg])
-@[35-47](... @fa[smile-o fa-lg])
+@[10-16](New Tuple, Literal Expression, Mutable @fa[meh-o fa-lg])
+@[18-21](Extension Method @fa[meh-o fa-lg])
+@[23-25](Generic, Any Type @fa[meh-o fa-lg])
+@[27-32](Explicitly Named Members, Hidden API @fa[meh-o fa-lg])
+@[34-40](Deconstruction, Various Approaches @fa[meh-o fa-lg])
+@[35-47](Works As Expected @fa[smile-o fa-lg])
 @[49-51](Same Scoping Rules @fa[fa-thumbs-o-up fa-lg])
 @[69-77](Any Class @fa[question-circle fa-lg])
 @[79-84](Deconstruct @fa[exclamation-circle fa-lg])
