@@ -72,33 +72,22 @@ void InstantiatePerson() {
 }
 
 class Person {
-  internal (string First, string Last) Name { get; private set; }
+  internal string Name { get; }
 
-  internal int Age { get; private set; }
+  internal int Age { get; }
 
-  internal Person((string FirstName, string LastName) name, 
-                  int age) {
+  internal Person(string name, int age) {
       Name = name;
       Age = age;
   }
 
-  public void Deconstruct(out (string, string) name,
-                          out int age) {
+  public void Deconstruct(
+      out string name,
+      out int age) {
       name = Name;
       age = Age;
   }
-
-  public void Deconstruct(out string first, 
-                          out string last, 
-                          out int age) {
-      first = Name.First;
-      last = Name.Last;
-      age = Age;
-  }
-
-  public void CopyTo(Person person) 
-      => (person.Name, person.Age) = (Name, Age);
-
+    
   public override string ToString() 
       => $"{Name.First} {Name.Last} ({Age})";
 }
