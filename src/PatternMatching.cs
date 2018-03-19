@@ -66,10 +66,10 @@ void OutputShapes(List<Shape> shapes)
              WriteLine($"circle with (C): {c.Circumference}");
              break;
          case Rectangle s when (s.IsSquare):
-             WriteLine($"{s.Length} x {s.Height} square");
+             WriteLine($"L:{s.Length} H:{s.Height}, square");
              break;
          case Rectangle r:
-             WriteLine($"{r.Length} x {r.Height} rectangle");
+             WriteLine($"L:{r.Length} H:{r.Height}, rectangle");
              break;
          default:
              WriteLine("Unknown shape!");
