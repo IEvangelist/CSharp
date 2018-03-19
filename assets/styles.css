@@ -2,7 +2,7 @@
   width: 100%;
 }
 
-.reveal code {
+div.slides > section > section.present > ul > li > code {
    color: #81a2be;
 }
 
