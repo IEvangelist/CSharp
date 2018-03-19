@@ -63,7 +63,7 @@ void OutputShapes(List<Shape> shapes)
      switch (shape)
      {
          case Circle c:
-             WriteLine($"circle with circumference {c.Circumference}");
+             WriteLine($"circle with (C): {c.Circumference}");
              break;
          case Rectangle s when (s.IsSquare):
              WriteLine($"{s.Length} x {s.Height} square");
@@ -72,7 +72,7 @@ void OutputShapes(List<Shape> shapes)
              WriteLine($"{r.Length} x {r.Height} rectangle");
              break;
          default:
-             WriteLine("This is not a shape that we're familiar with...");
+             WriteLine("Unknown shape!");
              break;
      }
  });
