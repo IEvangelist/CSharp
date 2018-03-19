@@ -77,6 +77,11 @@
 @[50-56](... @fa[meh-o fa-lg])
 @[58-59](... @fa[smile-o fa-lg])
 @[60-78](... @fa[smile-o fa-lg])
+@[65-67](... @fa[smile-o fa-lg])
+@[68-70](Circle @fa[smile-o fa-lg])
+@[71-73](Square @fa[smile-o fa-lg])
+@[60-78](Rectangle @fa[smile-o fa-lg])
+
 
 +++
 
