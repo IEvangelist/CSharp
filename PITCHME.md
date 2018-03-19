@@ -80,7 +80,6 @@
 @[65-67](Circle @fa[smile-o fa-lg])
 @[68-70](Square @fa[smile-o fa-lg])
 @[71-73](Rectangle @fa[smile-o fa-lg])
-@[60-78](... @fa[smile-o fa-lg])
 
 +++
 
