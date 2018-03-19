@@ -11,12 +11,10 @@ static void PrintStars(object obj)
     // "obj is int"     // type assertion
     //        "int i"   // declaration
 
-    if (!(obj is int i)) // Type pattern "int i"
+    if (obj is int i)   // Type pattern "int i"
     {
-        return;
+        WriteLine(new string('*', i));
     }
-
-    WriteLine(new string('*', i));
 
     // Note: that "i" is still available to us in this scope.
     var f = i;
