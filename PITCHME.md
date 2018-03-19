@@ -61,3 +61,21 @@
 
 +++
 
+# C# 7
+## Pattern Matching
+
+- Constant Patterns
+- `is` Expressions
+- Value-Type
+
++++?code=src/PatternMatching.cs&lang=csharp
+@[1-7](... @fa[frown-o fa-lg])
+@[9-22](... @fa[meh-o fa-lg])
+@[19-27](... @fa[meh-o fa-lg])
+@[30-43](... @fa[meh-o fa-lg])
+@[45-55](... @fa[meh-o fa-lg])
+@[57-63](... @fa[meh-o fa-lg])
+@[65-87](... @fa[smile-o fa-lg])
+
++++
+
