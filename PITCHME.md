@@ -70,12 +70,13 @@
 
 +++?code=src/PatternMatching.cs&lang=csharp
 @[1-7](... @fa[frown-o fa-lg])
-@[9-22](... @fa[meh-o fa-lg])
-@[19-27](... @fa[meh-o fa-lg])
-@[30-43](... @fa[meh-o fa-lg])
-@[45-55](... @fa[meh-o fa-lg])
-@[57-63](... @fa[meh-o fa-lg])
-@[65-87](... @fa[smile-o fa-lg])
+@[9-17](... @fa[meh-o fa-lg])
+@[14-20](... @fa[meh-o fa-lg])
+@[23-36](... @fa[meh-o fa-lg])
+@[38-48](... @fa[meh-o fa-lg])
+@[50-56](... @fa[meh-o fa-lg])
+@[58-59](... @fa[smile-o fa-lg])
+@[60-78](... @fa[smile-o fa-lg])
 
 +++
 
