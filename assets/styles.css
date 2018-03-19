@@ -2,6 +2,11 @@
   width: 100%;
 }
 
+.reveal code {
+   color: #81a2be;
+}
+
+div.slides > section > section.present > ul > li,
 p > span.code-presenting-annotation.fragment.current-only.visible.current-fragment {
   text-transform: uppercase !important;
 }
