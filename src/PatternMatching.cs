@@ -6,12 +6,7 @@ static void PrintStars(object obj)
         return;
     }
 
-    // Look closely at this syntax. This is where we start mixing
-    // metaphors. Historically in C# we could use "is" operator for 
-    // type assertions "obj is [type]", and we all know how to declare
-    // a variable "int i". This new syntax merges these concepts 
-    // together and is more compound / expressive.
-
+    // Mixing metaphors...
     // (obj is int i)
     // "obj is int"     // type assertion
     //        "int i"   // declaration
@@ -65,7 +60,7 @@ class Rectangle : Shape
 void OutputShapes(List<Shape> shapes)
   => shapes.ForEach(shape =>
      {
-         // Previously, this was not permitted. Types had to be concrete
+         // Before C# 7, Types had to be concrete
          // such as enums, numerics, bools, strings, etc.
          switch (shape)
          {
@@ -81,7 +76,16 @@ void OutputShapes(List<Shape> shapes)
              default:
                  WriteLine("This is not a shape that we're familiar with...");
                  break;
-             //case null:
-             //    throw new ArgumentNullException(nameof(shape));
          }
      });
+
+
+
+
+
+
+
+
+
+
+// Hacker!
