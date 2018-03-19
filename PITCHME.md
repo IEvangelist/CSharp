@@ -95,7 +95,7 @@
 +++
 
 # C# 8
-## Nullable Reference Types
+## Nullable<br/>Reference Types
 
 - ...
 
