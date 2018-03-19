@@ -83,3 +83,24 @@
 
 +++
 
+# C# 8
+## Async Streams
+
+- ...
+
++++
+
+... code examples
+
++++
+
+# C# 8
+## Nullable Reference Types
+
+- ...
+
++++
+
+... code examples
+
++++
