@@ -13,7 +13,7 @@ div.slides > section > section.present > ul > li {
 
 p > span.code-presenting-annotation.fragment.current-only.visible.current-fragment {
   text-transform: uppercase !important;
-  font-size: 80%;
+  font-size: 80% !important;
 }
 
 div.slides > section > section.present {
