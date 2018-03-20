@@ -1,14 +1,19 @@
 .reveal pre {
   width: 100%;
+  margin: 0px;
 }
 
 div.slides > section > section.present > ul > li > code {
    color: #81a2be;
 }
 
-div.slides > section > section.present > ul > li,
+div.slides > section > section.present > ul > li {
+  text-transform: uppercase !important;
+}
+
 p > span.code-presenting-annotation.fragment.current-only.visible.current-fragment {
   text-transform: uppercase !important;
+  font-size: 80%;
 }
 
 div.slides > section > section.present {
