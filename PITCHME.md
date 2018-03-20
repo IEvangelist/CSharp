@@ -31,7 +31,7 @@
 - Valid With Ternary 
 
 +++?code=src/OutVariables.cs&lang=csharp
-@[1-11](TryParse: Legacy Pattern @fa[frown-o])
+@[1-11](Legacy Pattern @fa[frown-o])
 @[13-22](New Pattern @fa[meh-o])
 @[24-32](Same Scoping Rules @fa[smile-o])
 @[34-35](Valid With Ternary @fa[thumbs-o-up])
