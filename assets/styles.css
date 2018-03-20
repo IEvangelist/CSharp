@@ -5,6 +5,7 @@
 
 section > section.present > p > img {
   border-radius: 10px;
+  border-bottom: 8px;
 }
 
 div.slides > section > section.present > ul > li > code {
