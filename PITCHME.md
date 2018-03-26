@@ -54,7 +54,7 @@
 @[27-32](Explicitly Named Members, Hidden API @fa[meh-o])
 @[34-40](Deconstruction, Various Approaches @fa[meh-o])
 @[35-47](Works As Expected @fa[smile-o])
-@[49-51](Same Scoping Rules @fa[fa-thumbs-o-up])
+@[49-51](Literal Immediate Deconstruct @fa[fa-thumbs-o-up])
 @[69-77](Any Class @fa[question-circle])
 @[79-84](Deconstruct @fa[exclamation-circle])
 @[54-67](It Just Works @fa[exclamation])
