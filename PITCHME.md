@@ -86,11 +86,14 @@
 # C# 8
 ## Async Streams
 
-- ...
+- Both Iterator & `async` Method
+- `IAsyncDisposable`
+- `IAsyncEnumerator<T>` & `IAsyncEnumerable<T>`
 
-+++
-
-... code examples
++++?code=src/AsyncStreams.cs&lang=csharp
+@[1-12](New Interface, `IAsyncDisposable` @fa[smile-o])
+@[14-26](Iterator's Today @fa[smile-o])
+@[28-40](`async` Iterator's Tomorrow @fa[smile-o])
 
 +++
 
