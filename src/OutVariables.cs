@@ -22,8 +22,8 @@ int NewTryPattern(string number) {
 }
 
 void ScopeExample() {
-    if (DateTime.TryParse("OMG", out var date)) {
-        if (TimeSpan.TryParse("What's happening?", out var ts)) {
+    if (DateTime.TryParse("7-7-84", out var date)) {
+        if (TimeSpan.TryParse("10:17:00", out var ts)) {
             var newDate = date.Add(ts);
         }
     }
