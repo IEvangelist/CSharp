@@ -69,14 +69,14 @@
 - Value-Type
 
 +++?code=src/PatternMatching.cs&lang=csharp
-@[1-7](... @fa[frown-o])
-@[9-17](... @fa[meh-o])
-@[14-20](... @fa[meh-o])
-@[23-36](... @fa[meh-o])
-@[38-48](... @fa[meh-o])
-@[50-56](... @fa[meh-o])
-@[58-59](... @fa[smile-o])
-@[60-78](... @fa[smile-o])
+@[1-7](Constant Pattern @fa[smile-o])
+@[9-17](Type Pattern @fa[smile-o])
+@[14-20](Same Scoping @fa[smile-o])
+@[23-36](Shape @fa[meh-o])
+@[38-48](Circle @fa[meh-o])
+@[50-56](Rectangle or Square @fa[meh-o])
+@[58-59](Output Shapes @fa[smile-o])
+@[60-78](Switch Statement @fa[smile-o])
 @[65-67](Circle @fa[smile-o])
 @[68-70](Square @fa[smile-o])
 @[71-73](Rectangle @fa[smile-o])
