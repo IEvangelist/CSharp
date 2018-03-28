@@ -109,5 +109,6 @@
 +++
 # Thank you
 ### Slides: [http://bit.ly/newcsharp](http://bit.ly/newcsharp)
+### Source: [http://bit.ly/csharp-src](http://bit.ly/csharp-src)
 <br/>
 [@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
