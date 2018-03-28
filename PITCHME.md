@@ -120,6 +120,8 @@
 
 - Billion Dollar Mistake
 - Expression Of Intent
+- Flow Analysis
+- Type Inference
 
 +++
 
