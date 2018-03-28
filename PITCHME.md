@@ -108,6 +108,6 @@
 
 +++
 # Thank you
-#### Slides > [http://bit.ly/newcsharp](http://bit.ly/newcsharp)
+### Slides: [http://bit.ly/newcsharp](http://bit.ly/newcsharp)
 <br/>
 [@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
