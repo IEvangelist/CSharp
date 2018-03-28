@@ -83,12 +83,25 @@
 
 +++
 
+# C# 7
+## Additional Features
+
+- `throw` Expressions
+- Generalized `async` Returns
+- Numeric Literal Syntax Improvements
+- `ref` Locals and Returns
+
+## [bit.ly/csharp-seven-features](http://bit.ly/csharp-seven-features)
+
++++
+
 # C# 8
 ## Async Streams
 
 - Both Iterator & `async` Method
 - `IAsyncDisposable`
 - `IAsyncEnumerator<T>` & `IAsyncEnumerable<T>`
+- Differs From `IObserver<T>` & `IObservable<T>`
 
 +++?code=src/AsyncStreams.cs&lang=csharp
 @[1-12](New Interface, `IAsyncDisposable` @fa[smile-o])
@@ -100,7 +113,8 @@
 # C# 8
 ## Nullable<br/>Reference Types
 
-- ...
+- Billion Dollar Mistake
+- Expression Of Intent
 
 +++
 
@@ -108,6 +122,7 @@
 
 +++
 # Thank you
+<br/>
 ### Slides: [bit.ly/newcsharp](http://bit.ly/newcsharp)
 ### Source: [bit.ly/csharp-src](http://bit.ly/csharp-src)
 <br/>
