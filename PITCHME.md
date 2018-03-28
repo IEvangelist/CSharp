@@ -95,6 +95,13 @@
 
 +++
 
+# C# 7
+## Additional Features
+
+### [bit.ly/csharp-seven-features](http://bit.ly/csharp-seven-features)
+
++++
+
 # C# 8
 ## Async Streams
 
