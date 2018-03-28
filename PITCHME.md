@@ -91,8 +91,6 @@
 - Numeric Literal Syntax Improvements
 - `ref` Locals and Returns
 
-## [bit.ly/csharp-seven-features](http://bit.ly/csharp-seven-features)
-
 +++
 
 # C# 7
