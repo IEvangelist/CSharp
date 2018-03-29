@@ -8,14 +8,14 @@
 # C# 7
 ## Local Functions
 
-- Recursive
-- `async` and `await`
+- Supports Recursion
+- `async` and `await` Methods
 - Iterators
 - Generics
 
 +++?code=src/LocalFunctions.cs&lang=csharp
 @[1-11](Early Exit, Iterator: Deferred Execution)
-@[13-21](Solution: Separate Methods?)
+@[13-21](Solution: Separate Methods? @fa[thumbs-o-down])
 @[23-27](Logical Cohesion @fa[meh-o])
 @[13-27](Where Else Is This Used? @fa[frown-o])
 @[29-43](Local Functions! @fa[smile-o])
@@ -41,8 +41,8 @@
 # C# 7
 ## Tuples
 
-- Hashing / Dictionary Key
-- API Better, `.Item1`, `.Item2`, ...
+- Dictionary Key / `.GetHashCode()`
+- API Better, <i class="fa fa-hand-paper-o waving"></i> `.Item1`, `.Item2`, ...
 - Value-Type
 - Literals / Deconstruction
 
