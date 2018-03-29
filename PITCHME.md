@@ -42,19 +42,19 @@
 ## Tuples
 
 - Dictionary Key / `.GetHashCode()`
-- API Better, <i class="fa fa-hand-paper-o waving"></i> `.Item1`, `.Item2`, ...
+- API Better: <i class="fa fa-hand-paper-o waving"></i> `.Item1`, `.Item2`, ...
 - Value-Type
-- Literals / Deconstruction
+- Literals / Deconstruct Anything
 
 +++?code=src/Tuples.cs&lang=csharp
-@[1-8](Legacy Tuples, Class @fa[frown-o])
+@[1-8](Legacy Tuples, @fa[trademark] "Allocatey" @fa[frown-o])
 @[10-16](New Tuple, Literal Expression, Mutable @fa[meh-o])
 @[18-21](Extension Method @fa[meh-o])
 @[23-25](Generic, Any Type @fa[meh-o])
 @[27-32](Explicitly Named Members, Hidden API @fa[meh-o])
 @[34-40](Deconstruction, Various Approaches @fa[meh-o])
 @[35-47](Works As Expected @fa[smile-o])
-@[49-51](Literal Immediate Deconstruct @fa[fa-thumbs-o-up])
+@[49-51](Literal Immediate Deconstruct @fa[thumbs-o-up])
 @[69-77](Any Class @fa[question-circle])
 @[79-84](Deconstruct @fa[exclamation-circle])
 @[54-67](It Just Works @fa[exclamation])
@@ -64,9 +64,9 @@
 # C# 7
 ## Pattern Matching
 
-- Constant Patterns
+- Constant & Type Patterns
 - `is` Expressions
-- Value-Type
+- Smarter `switch` Statements 
 
 +++?code=src/PatternMatching.cs&lang=csharp
 @[1-7](Constant Pattern @fa[smile-o])
@@ -77,9 +77,9 @@
 @[50-56](Rectangle or Square @fa[meh-o])
 @[58-59](Output Shapes @fa[smile-o])
 @[60-78](Switch Statement @fa[smile-o])
-@[65-67](Circle @fa[smile-o])
-@[68-70](Square @fa[smile-o])
-@[71-73](Rectangle @fa[smile-o])
+@[65-67](Circle @fa[thumbs-o-up])
+@[68-70](Square @fa[exclamation-circle])
+@[71-73](Rectangle @fa[exclamation])
 
 +++
 
@@ -111,15 +111,15 @@
 +++?code=src/AsyncStreams.cs&lang=csharp
 @[1-12](New Interface, `IAsyncDisposable` @fa[smile-o])
 @[14-26](Iterator's Today @fa[smile-o])
-@[28-40](`async` Iterator's Tomorrow @fa[smile-o])
+@[28-40](`async` Iterator's @fa[thumbs-o-up])
 
 +++
 
 # C# 8
 ## Nullable<br/>Reference Types
 
-- Billion Dollar Mistake
-- Expression Of Intent
+- Billion @fa[usd] Mistake
+- Express Intent
 - Flow Analysis
 - Type Inference
 
