@@ -42,7 +42,7 @@
 ## Tuples
 
 - Dictionary Key / `.GetHashCode()`
-- API Better: <i class="fa fa-hand-paper-o waving"></i> `.Item1`, `.Item2`, ...
+- <i class="fa fa-hand-paper-o waving"></i> Goodbye `.Item1`, `.Item2`, ...
 - Value-Type
 - Literals / Deconstruct Anything
 
