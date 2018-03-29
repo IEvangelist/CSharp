@@ -55,8 +55,8 @@
 @[34-40](Deconstruction, Various Approaches @fa[meh-o])
 @[35-47](Works As Expected @fa[smile-o])
 @[49-51](Literal Immediate Deconstruct @fa[thumbs-o-up])
-@[69-77](Any Class @fa[question-circle])
-@[79-84](Deconstruct @fa[exclamation-circle])
+@[69-77](A Simple Class @fa[question-circle])
+@[79-84](Deconstruct Everything @fa[exclamation-circle])
 @[54-67](It Just Works @fa[exclamation])
 
 +++
