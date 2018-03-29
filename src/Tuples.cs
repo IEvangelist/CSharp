@@ -46,7 +46,7 @@ void ValueTuple() {
         // This would get executed...
     }
 
-    // Liteal instantly deconstructed
+    // Literal instantly deconstructed
     var (now, tenSeconds) =
         (DateTime.Now, TimeSpan.FromSeconds(10));
 }
