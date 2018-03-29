@@ -42,8 +42,8 @@
 ## Tuples
 
 - Dictionary Key / `.GetHashCode()`
-- <i class="fa fa-hand-paper-o waving"></i> Goodbye `.Item1`, `.Item2`, ...
-- Value-Type
+- <i class="fa fa-hand-paper-o waving"></i> Goodbye to `.Item1`, `.Item2`, ...
+- Say Hello to `ValueTuple`
 - Literals / Deconstruct Anything
 
 +++?code=src/Tuples.cs&lang=csharp
