@@ -71,7 +71,7 @@
 +++?code=src/PatternMatching.cs&lang=csharp
 @[1-7](Constant Pattern @fa[smile-o])
 @[9-17](Type Pattern @fa[smile-o])
-@[14-20](Same Scoping @fa[smile-o])
+@[14-20](Familiar Scoping @fa[smile-o])
 @[23-36](Shape @fa[meh-o])
 @[38-48](Circle @fa[meh-o])
 @[50-56](Rectangle or Square @fa[meh-o])
