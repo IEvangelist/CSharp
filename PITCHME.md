@@ -27,7 +27,7 @@
 ## Out Variables
 
 - Same Scoping Rules
-- Implicit Declaration
+- Implicit `var` Declaration
 - Valid With Ternary 
 
 +++?code=src/OutVariables.cs&lang=csharp
