@@ -129,7 +129,7 @@
 @[1-12](New Interface, `IAsyncDisposable` @fa[smile-o])
 @[14-26](Iterator's Today @fa[smile-o])
 @[28-40](`async` Iterator's @fa[thumbs-o-up])
-@[42-46](Consumption @fa[exclamation-circle])
+@[42-48](Consumption @fa[exclamation-circle])
 
 +++
 
