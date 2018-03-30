@@ -111,8 +111,9 @@
 
 +++?code=src/DefaultInterfaceMethods.cs&lang=csharp
 
-@[1-3](We Have An Interface @fa[smile-o])
-@[5-13](We Add Default Impl @fa[smile-o])
+@[1-3](We Have An Interface @fa[meh-o])
+@[5-12](We Want To Add An API @fa[frown-o])
+@[14-24](We Add Default Impl @fa[smile-o])
 
 +++
 
