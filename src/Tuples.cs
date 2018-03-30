@@ -79,15 +79,38 @@ class Person {
   public void Deconstruct(
       out string name,
       out int age) {
-      name = Name;
-      age = Age;
+      Name = name;
+      Age = age;
   }
     
   public override string ToString() 
       => $"{Name.First} {Name.Last} ({Age})";
 }
 
+public static class Extensions {
+    public static void Deconstruct<T>(
+        this T? nullable,
+        out bool hasValue,
+        out T value) where T : struct {
+        hasValue = nullable.HasValue;
+        value = nullable.GetValueOrDefault();
+    }
+}
 
+[Fact]
+public void NullDateTimeTest() {
+    var (hasValue, value) = new DateTime?();
+    Assert.False(hasValue);
+    Assert.Equal(default, value);
+}
+
+[Fact]
+public void NullDateTimeTest() {
+    var utcNow = DateTime.UtcNow;
+    var (hasValue, value) = new DateTime?(utcNow);
+    Assert.True(hasValue);
+    Assert.Equal(utcNow, value);
+}
 
 
 
