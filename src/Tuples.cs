@@ -105,7 +105,7 @@ public void NullDateTimeTest() {
 }
 
 [Fact]
-public void NullDateTimeTest() {
+public void UtcNowDateTimeTest() {
     var utcNow = DateTime.UtcNow;
     var (hasValue, value) = new DateTime?(utcNow);
     Assert.True(hasValue);
