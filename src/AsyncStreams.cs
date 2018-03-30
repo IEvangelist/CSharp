@@ -39,7 +39,9 @@ namespace System.Collections.Generic
     }
 }
 
-public async Task ExampleAsync<T>(IAsyncEnumerable<T> asyncValues) {
+public async Task ExampleAsync<T>(
+    IAsyncEnumerable<T> asyncValues) {
+    
     foreach await (T value in asyncValues) {
         // Use value...
     }
