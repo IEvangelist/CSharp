@@ -104,6 +104,19 @@
 +++
 
 # C# 8
+## Default Interface Methods
+
+- Non-breaking API Changes
+- Default Behavior
+
++++?code=src/DefaultInterfaceMethods.cs&lang=csharp
+
+@[1-3](We Have An Interface @fa[smile-o])
+@[5-13](We Add Default Impl @fa[smile-o])
+
++++
+
+# C# 8
 ## Async Streams
 
 - Both Iterator & `async` Method
@@ -125,18 +138,6 @@
 - Express Intent
 - Flow Analysis
 - Type Inference
-
-+++
-
-... code examples
-
-+++
-
-# C# 8
-## Default Interface Methods
-
-- Non-breaking API Changes
-- Default Behavior
 
 +++
 
