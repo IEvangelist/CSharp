@@ -131,6 +131,19 @@
 ... code examples
 
 +++
+
+# C# 8
+## Default Interface Methods
+
+- Non-breaking API Changes
+- Default Behavior
+
++++
+
+... code examples
+
++++
+
 # Thank you
 <br/>
 ### Slides: [bit.ly/newcsharp](http://bit.ly/newcsharp)
