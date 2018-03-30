@@ -104,7 +104,7 @@
 +++
 
 # C# 8
-## Default Interface Methods
+## Default<br/>Interface Methods
 
 - Non-breaking API Changes
 - Default Behavior
@@ -136,7 +136,7 @@
 # C# 8
 ## Nullable<br/>Reference Types
 
-- Billion @fa[usd] Mistake
+- `null` Is The Billion @fa[usd] Mistake
 - Express Intent
 - Flow Analysis
 - Type Inference
