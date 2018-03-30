@@ -58,6 +58,9 @@
 @[69-77](A Simple Class @fa[question-circle])
 @[79-84](Deconstruct Everything @fa[exclamation-circle])
 @[54-67](It Just Works @fa[exclamation])
+@[90-98](Deconstruct Extensions @fa[smile-o])
+@[100-104](Testing With `null` @fa[thumbs-o-up])
+@[107-113](Testing With Value @fa[exclamation])
 
 +++
 
