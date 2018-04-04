@@ -91,7 +91,7 @@
 
 - `throw` Expressions
 - Generalized `async` Returns
-- Numeric Literal Syntax Improvements
+- `0b0001_0000` Binary Literals
 - `ref` Locals and Returns
 
 +++
