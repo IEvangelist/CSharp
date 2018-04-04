@@ -44,7 +44,7 @@
 - Dictionary Key / `.GetHashCode()`
 - <i class="fa fa-hand-paper-o waving"></i> Goodbye to `.Item1`, `.Item2`, ...
 - Say Hello to `ValueTuple`
-- Literals / Deconstruct Anything
+- Literals / Deconstruction
 
 +++?code=src/Tuples.cs&lang=csharp
 @[1-8](Legacy Tuples, @fa[trademark] "Allocatey" @fa[frown-o])
