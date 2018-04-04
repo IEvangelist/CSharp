@@ -106,7 +106,7 @@
 # C# 8
 ## Default<br/>Interface Methods
 
-- Non-breaking API Changes
+- Safely Add New APIs
 - Default Behavior
 
 +++?code=src/DefaultInterfaceMethods.cs&lang=csharp
