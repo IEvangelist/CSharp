@@ -12,6 +12,10 @@ div.slides > section > section.present > ul > li > code {
    color: #81a2be;
 }
 
+div.slides > section > section.present > ul {
+  margin: 0;
+}
+
 div.slides > section > section.present > ul > li {
   text-transform: uppercase !important;
   font-family: "Quicksand", sans-serif;
