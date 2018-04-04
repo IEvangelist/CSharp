@@ -136,10 +136,9 @@
 # C# 8
 ## Nullable<br/>Reference Types
 
-- `null` Is The Billion @fa[usd] Mistake
+- `null =>` Billion @fa[usd] Mistake
 - Express Intent
 - Flow Analysis
-- Type Inference
 
 +++
 
