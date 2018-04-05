@@ -3,6 +3,10 @@
   margin: 0px;
 }
 
+.iHeart {
+  text-transform: left;
+}
+
 section > section.present > p > img {
   border-radius: 10px;
   border-bottom: 8px;
