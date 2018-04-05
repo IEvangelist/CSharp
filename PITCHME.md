@@ -10,8 +10,8 @@
 
 # Agenda
 <br/>
-### C# 7: Major Features
-### C# 8: Look Ahead 
+### Major Features of C# 7
+### & Look Ahead at C# 8
 
 +++
 
@@ -111,6 +111,12 @@
 
 ### [bit.ly/csharp-seven-features](http://bit.ly/csharp-seven-features)
 
++++
+
+# C# 8
+## Disclaimer
+
+### Proposals & Prototypes
 +++
 
 # C# 8
