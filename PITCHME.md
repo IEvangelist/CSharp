@@ -146,6 +146,10 @@
 @[1-17](`Person` Object @fa[meh-o])
 @[15-16](Note `.ctor` @fa[meh-o])
 @[19-24](What Do We Expect? @fa[frown-o])
+@[26-32](Express Intent @fa[question])
+@[28](`MiddleName` can be `null` @fa[question-o])
+@[34-39](IDE warns you @fa[smile-o])
+@[41-48](Take Suggestions @fa[frown-o])
 
 +++
 
