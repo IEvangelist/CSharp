@@ -3,6 +3,9 @@
 <br />
 [@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
 
++++?image=assets/imposter.jpg&size=contain
+## I @fa[heart] .NET
+
 +++
 
 # C# 7
