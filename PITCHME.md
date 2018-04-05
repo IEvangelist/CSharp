@@ -4,7 +4,7 @@
 [@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
 
 +++?image=assets/imposter.png&size=contain
-## <span id='iHeart'>I @fa[heart] .NET</span>
+<h2 id='iHeart'>I @fa[heart] .NET</h2>
 
 +++
 
