@@ -8,6 +8,13 @@
 
 +++
 
+# Agenda
+<br/>
+### C# 7: Major Features
+### C# 8: Look Ahead 
+
++++
+
 # C# 7
 ## Local Functions
 
