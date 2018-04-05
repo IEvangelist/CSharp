@@ -41,13 +41,10 @@ public void Warnings() {
 public void TakeSuggestion() {  
   var person = new NewPerson("David", "Pine");
   
-  // Visual Studio Issues a Warning!
-  if (person.MiddleName is null)
+  if (person.MiddleName != null)
   {
-     return;
-  }
-  
-  Console.WriteLine(person.MiddleName);
+     Console.WriteLine(person.MiddleName);
+  }  
 }
 
 
