@@ -126,6 +126,7 @@
 - Differs From `IObserver<T>` & `IObservable<T>`
 
 +++?code=src/AsyncStreams.cs&lang=csharp
+
 @[1-12](New Interface, `IAsyncDisposable` @fa[smile-o])
 @[14-26](Iterator's Today @fa[smile-o])
 @[28-40](`async` Iterator's @fa[thumbs-o-up])
@@ -140,9 +141,11 @@
 - Express Intent
 - Flow Analysis
 
-+++
++++?code=src/NullableReferenceTypes.cs&lang=csharp
 
-... code examples
+@[1-17](`Person` Object @fa[meh-o])
+@[15-16](Note `.ctor` @fa[meh-o])
+@[19-24](What Do We Expect? @fa[frown-o])
 
 +++
 
