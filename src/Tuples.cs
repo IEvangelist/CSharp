@@ -79,8 +79,8 @@ class Person {
   public void Deconstruct(
       out string name,
       out int age) {
-      Name = name;
-      Age = age;
+      name = Name;
+      age = Age;
   }
     
   public override string ToString() 
