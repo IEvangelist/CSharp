@@ -169,6 +169,14 @@
 
 +++
 
+# C# 8
+## Additional Features
+
+### [bit.ly/csharp-8-features](http://bit.ly/csharp-8-features)
+
++++?image=assets/cuzCSharp.png&size=contain
++++
+
 # Thank you
 <br/>
 ### Slides: [bit.ly/newcsharp](http://bit.ly/newcsharp)
