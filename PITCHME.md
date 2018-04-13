@@ -111,7 +111,7 @@
 
 ### [bit.ly/csharp-seven-features](http://bit.ly/csharp-seven-features)
 
-+++?image=assets/dislcaimer.png&size=contain
++++?image=assets/disclaimer.png&size=contain
 
 # C# 8
 
