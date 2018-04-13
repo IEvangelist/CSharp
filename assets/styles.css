@@ -37,16 +37,16 @@ div.slides > section > section.present {
 .reveal pre code {
   font-size: 1.2em;
   line-height: 1.2;
-  max-height: 52vh !important;
+  max-height: 60vh !important;
   opacity: 0.90;
   border-radius: 10px;
   overflow: hidden !important;
 }
 
-.reveal pre code:-moz-full-screen,
-.reveal pre code:-webkit-full-screen,
-.reveal pre code:full-screen {
+@media (device-width: 100vw) and (device-height: 100vh) {
+  .reveal pre code {
     max-height: 52vh !important;
+  }
 }
 
 .reveal .slides section .code-presenting-annotation {
