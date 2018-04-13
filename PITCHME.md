@@ -112,11 +112,10 @@
 ### [bit.ly/csharp-seven-features](http://bit.ly/csharp-seven-features)
 
 +++?image=assets/disclaimer.png&size=contain
-
++++
 # C# 8
 
 ### Proposals & Prototypes
-
 +++
 
 # C# 8
