@@ -43,6 +43,12 @@ div.slides > section > section.present {
   overflow: hidden !important;
 }
 
+.reveal pre code:-moz-full-screen,
+.reveal pre code:-webkit-full-screen,
+.reveal pre code:full-screen {
+    max-height: 52vh !important;
+}
+
 .reveal .slides section .code-presenting-annotation {
   color: white;
   background: black;
