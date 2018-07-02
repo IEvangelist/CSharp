@@ -1,5 +1,5 @@
 ## <span>What's new in @css[cs](C#)</span>
-<img src="assets/me.jpg" height="375" />
+<img src="assets/me.jpg" class="shake" height="375" />
 <br />
 [@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
 
@@ -151,6 +151,7 @@
 
 ## Proposals & Prototypes
 
++++?image=assets/wow.webp&size=auto 90%
 +++
 
 # @css[cs](C# 8)
@@ -209,6 +210,7 @@
 @[34-39](IDE warns you @fa[smile-o])
 @[41-48](Take Suggestions @fa[frown-o])
 
++++?image=assets/owl-wow.webp&size=auto 90%
 +++
 
 # @css[cs](C# 8)
@@ -263,6 +265,7 @@
 
 ### [bit.ly/csharp-8-features](http://bit.ly/csharp-8-features)
 
++++?image=assets/omg.webp&size=auto 90%
 +++?image=assets/thank-you.webp&size=auto 90%
 +++
 

@@ -180,13 +180,7 @@ div.slides > section > section.present {
   }
 }
 
-.shake {
-  animation-name: shake;
-  animation-duration: 100ms;
-  animation-timing-function: ease-in-out;
-  animation-iteration-count: infinite;
-}
-
+.shake,
 div.slide-background.present[style*=disclaimer],
 div.slide-background.present[style*=cuzCSharp] {
   animation-name: shake;
