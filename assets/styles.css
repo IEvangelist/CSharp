@@ -180,7 +180,12 @@ div.slides > section > section.present {
   }
 }
 
+.line-number {
+  opacity: .5;
+}
+
 .shake,
+div.slide-background.present[style*=imposter],
 div.slide-background.present[style*=disclaimer],
 div.slide-background.present[style*=cuzCSharp] {
   animation-name: shake;
