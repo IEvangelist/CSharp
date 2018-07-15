@@ -4,8 +4,12 @@
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
+.bold {
+  font-weight: bold;
+}
+
 .black-shadow {
-  text-shadow: 0 0 40px black;
+  text-shadow: 0 0 20px black;
 }
 
 .white {

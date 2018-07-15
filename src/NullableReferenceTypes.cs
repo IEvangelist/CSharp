@@ -19,8 +19,8 @@ public class Person {
 public void NullReferenceException() {
   var person = new Person("David", "Pine");
   
-  // Will throw NullReferenceException!
-  Console.WriteLine(person.MiddleName);
+  // Get middle initial, will throw NullReferenceException!
+  Console.WriteLine(person.MiddleName.SubString(0, 1));
 }
 
 public class NewPerson {
@@ -35,7 +35,7 @@ public void Warnings() {
   var person = new NewPerson("David", "Pine");
   
   // Visual Studio Issues a Warning!
-  Console.WriteLine(person.MiddleName);
+  Console.WriteLine(person.MiddleName.SubString(0, 1));
 }
 
 public void TakeSuggestion() {  

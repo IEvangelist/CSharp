@@ -61,12 +61,12 @@
 
 +++?image=assets/poll.webp&size=auto 90%
 
-# @css[white black-shadow](Quick Poll)
+# @css[bold white black-shadow](Quick Poll)
 
 +++?image=assets/show-hands.webp&size=auto 90%
 
 <br/><br/>
-# @css[white black-shadow](Rhymes with<br/>"Two Pull"?) 
+# @css[bold white black-shadow](Rhymes with<br/>"Two Pull"?) 
 
 +++?image=assets/show-hands-no.webp&size=auto 90%
 
@@ -229,7 +229,7 @@
 @[29-40](... And `this` @fa[exclamation-circle])
 @[42-49](... `this` Too! @fa[smile-o])
 @[58-59](Free `Deconstruct` @fa[thumbs-o-up])
-@[51-55](... And `With` @fa[smile-o])
+@[51-55](... And `With`, "compile time constant" @fa[smile-o])
 @[61-66](Immutable Copies @fa[thumbs-o-up])
 @[68-70](New Syntax Enhancements! @fa[exclamation-circle])
 
