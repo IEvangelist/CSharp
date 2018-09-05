@@ -1,10 +1,22 @@
 ## <span>What's new in @css[cs](C#)</span>
-<img src="assets/me.jpg" height="375" />
+<img src="assets/me.png" class="border-less" height="500" />
 <br />
-[@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
+@snap[west]
+[@css[twitter](@fa[twitter]) @davidpine7](https://twitter.com/davidpine7)
+@snapend
+
+@snap[east]
+[davidpine.net @color[red](@fa[globe])](http://davidpine.net/)
+@snapend
 
 +++?image=assets/imposter.png&size=contain
 <h2 id='lefty'>I @color[red](@fa[heart]) .NET</h2>
+
++++
+
+<strong>http://bit.ly/MadsInterview</strong>
+
+<img src="assets/mads.png" height="375" />
 
 +++
 
@@ -233,7 +245,7 @@
 @[61-66](Immutable Copies @fa[thumbs-o-up])
 @[68-70](New Syntax Enhancements! @fa[exclamation-circle])
 
-+++?image=assets/no-way.webp&size=auto 90%
++++?image=assets/hell-no.gif&size=auto 90%
 +++?code=src/Records.cs&lang=csharp
 
 @[80-82](Correction, This Is The Best Pizza! @fa[exclamation-circle])
@@ -265,7 +277,6 @@
 
 ### [bit.ly/csharp-8-features](http://bit.ly/csharp-8-features)
 
-+++?image=assets/omg.webp&size=auto 90%
 +++?image=assets/thank-you.webp&size=auto 90%
 +++
 
@@ -274,4 +285,5 @@
 ### Slides: [bit.ly/newcsharp](http://bit.ly/newcsharp)
 ### Source: [bit.ly/csharp-src](http://bit.ly/csharp-src)
 <br/>
-[@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
+[@css[twitter](@fa[twitter]) @davidpine7](https://twitter.com/davidpine7) | 
+[davidpine.net @color[red](@fa[globe])](http://davidpine.net/)

@@ -4,6 +4,26 @@
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
+.twitter {
+  color: #0084b4;
+}
+
+#notification {
+  font-size: 1.35em !important;
+}
+
+section > section.present > p > img {
+  border: 4px solid #333 !important;
+}
+
+.reveal section img.border-less,
+section > section.present > p > img.border-less {
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+  filter: drop-shadow(0 0 40px rgba(255, 255, 255, .5));
+}
+
 .bold {
   font-weight: bold;
 }
