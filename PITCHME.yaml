@@ -4,6 +4,7 @@ remote-control: true
 remote-control-prevkey: 38
 remote-control-nextkey: 40
 transition : fade
+logo: assets/csharp-logo.png
 published: true
 code-line-numbers : true
 footnote : "What's New In C#   •   davidpine.net   •   @davidpine7"
