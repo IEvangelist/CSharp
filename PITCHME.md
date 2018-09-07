@@ -14,7 +14,8 @@
 
 +++
 
-<strong>http://bit.ly/MadsInterview</strong>
+<br/>
+### http://bit.ly/MadsInterview
 
 <img src="assets/mads.png" height="375" />
 
@@ -73,17 +74,17 @@
 
 +++?image=assets/poll.webp&size=auto 90%
 
-# @css[bold white black-shadow](Quick Poll)
+## @css[bold white black-shadow](Quick Poll)
 
 +++?image=assets/show-hands.webp&size=auto 90%
 
 <br/><br/>
-# @css[bold white black-shadow](Rhymes with<br/>"Two Pull"?) 
+## @css[bold white black-shadow](Rhymes with<br/>"Two Pull"?) 
 
 +++?image=assets/show-hands-no.webp&size=auto 90%
 
 <br/><br/>
-# @css[white black-shadow](Rhymes with "Couple"?)
+## @css[bold white black-shadow](Rhymes with "Couple"?)
 
 +++?code=src/Tuples.cs&lang=csharp
 @[1-8](Legacy Tuples, @fa[trademark] "Allocatey" @fa[frown-o])
@@ -104,7 +105,7 @@
 +++?image=assets/oh-god.webp&size=auto 90%
 +++
 
- # @css[cs](C#) Guidelines
+ ## @css[cs](C#) Guidelines
  
 <br/>
 
