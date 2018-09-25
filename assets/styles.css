@@ -1,6 +1,7 @@
 .cs {
   color: #62237a;
   font-weight: 700 !important;
+  text-shadow: -1px 0 orange, 0 1px orange, 1px 0 orange, 0 -1px orange;
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
